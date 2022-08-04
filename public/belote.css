@@ -1,0 +1,21 @@
+#zone{
+    background-color: green;
+    width: 500px;
+    height: 500px;
+}
+
+#cards {
+    display: flex;
+}
+.cards>img{
+    margin: 5px;
+    width: 100px;
+}
+.hide{
+    display: none;
+}
+
+.aQui{
+    background-color: antiquewhite;
+    border: solid red;
+}
